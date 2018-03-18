@@ -1,0 +1,6 @@
+*.o
+*.jag
+lib/
+output/
+doc/
+obj/
