@@ -1,0 +1,9 @@
+// Platzieren Sie Ihre Einstellungen in dieser Datei, um Standard- und Benutzereinstellungen zu überschreiben.
+{
+	"editor.insertSpaces": false,
+	"files.eol": "\n",
+	"files.associations": {
+		"*.H": "cpp",
+		"*.s": "cpp"
+	}
+}
